@@ -1,0 +1,6 @@
+name: Mining
+version: '${project.version}'
+main: me.miningplugin.mining.Mining
+api-version: 1.19
+authors: [ GuilhermeNono ]
+description: Plugin for custom mining.
